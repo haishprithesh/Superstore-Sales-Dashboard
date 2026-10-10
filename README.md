@@ -8,7 +8,7 @@ assembling an interactive dashboard with KPI cards and slicers.
 
 ## Dashboard Preview
 
-![SuperStore Sales Dashboard](Images/FinalDashBoard.png)
+![SuperStore Sales Dashboard](FinalDashBoard.png)
 
 > If the preview does not appear, confirm that `dashboard.png` is saved
 > inside the `Images` folder and that the filename and capitalisation
