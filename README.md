@@ -237,7 +237,7 @@ Aspiring Data Analyst \| Excel \| SQL \| Python \| Power BI
 
 -   LinkedIn: [Haish Prithesh
     Kumar](https://www.linkedin.com/in/haish-prithesh-kumar-j/)
--   GitHub: Add your GitHub profile URL
+-   - GitHub: [Superstore Sales Dashboard](https://github.com/haishprithesh/Superstore-Sales-Dashboard)
 
 ------------------------------------------------------------------------
 
